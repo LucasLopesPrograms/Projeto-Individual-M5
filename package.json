@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "projeto_facilitando_o_dia_a_dia",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "author": "Lucas Lopes",
+  "license": "ISC",
+  "description": "Projeto do M5 de Desenvolvimento Web"
+}
